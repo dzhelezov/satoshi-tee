@@ -7,6 +7,6 @@ Here is a rough idea how one can safely redistribute rewards among hunters. Each
 
 To environment can support different teams by keeping different transactions. In this case, a share request should contain a transaction hash in order to indicate which team the share belongs to. 
 
-# Confidential Computing
+## Cloud-based confidential computing
 
-It seems that currently only Microsoft Azure [provides](https://azure.microsoft.com/en-us/solutions/confidential-compute/) TEE as a service on the Cloud. Microsoft also provides [Open Enclave SDK][https://github.com/Microsoft/openenclave] for TEE-enabled apps.
+It seems that currently only Microsoft Azure [provides](https://azure.microsoft.com/en-us/solutions/confidential-compute/) TEE as a service on the Cloud. Microsoft also provides [Open Enclave SDK](https://github.com/Microsoft/openenclave) for TEE-enabled apps.
